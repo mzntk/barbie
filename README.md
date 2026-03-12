@@ -22,9 +22,3 @@ W projekcie wykorzystano język Python oraz popularne biblioteki do analizy i wi
 * `Pandas` – czyszczenie, agregacja i transformacja danych.
 * `Matplotlib` / `Seaborn` – tworzenie zaawansowanych wizualizacji (m.in. skumulowane wykresy słupkowe z użyciem sprytnego maskowania podwójnego liczenia, mapy cieplne).
 * `Jupyter Notebook` – środowisko pracy analitycznej.
-
-## 🚀 Jak uruchomić projekt lokalnie
-
-1. Sklonuj to repozytorium:
-   ```bash
-   git clone [https://github.com/TwojUsername/barbie-data-analysis.git](https://github.com/TwojUsername/barbie-data-analysis.git)
